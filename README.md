@@ -5,9 +5,9 @@
 
 <h2 style="font-size: 20px;">系統畫面展示</h2>
 <div>
-  <img src="Factorial/FactorialSum01.jpg" alt="輸入選單" width="300" />
-  <img src="Factorial/FactorialSum02.jpg" alt="運算結果" width="300" />
-  <img src="Factorial/FactorialSum03.jpg" alt="運算結果" width="300" />
+  <img src="Factorial/FactorialSum01.jpg" alt="輸入選單" width="250" />
+  <img src="Factorial/FactorialSum02.jpg" alt="運算結果" width="250" />
+  <img src="Factorial/FactorialSum03.jpg" alt="運算結果" width="250" />
 </div>
 
 <h2>功能介紹與實作邏輯</h2>
