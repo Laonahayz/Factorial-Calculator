@@ -1,0 +1,4 @@
+﻿  Factorial.cpp
+E:\User\UnityProject\Factorial\Factorial\Factorial.cpp(33,13): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+E:\User\UnityProject\Factorial\Factorial\Factorial.cpp(53,13): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  Factorial.vcxproj -> E:\User\UnityProject\Factorial\Debug\Factorial.exe
